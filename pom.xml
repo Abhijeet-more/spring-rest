@@ -48,6 +48,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>Spring-Boot-RestCrud</finalName>
+		<finalName>spring-rest</finalName>
 	</build>
 </project>
